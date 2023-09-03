@@ -1,0 +1,7 @@
+DSPF2121           4//Programming Fundamentals
+DSLT2020          3//Logical Thinking
+DSLD1010           3//Digital Logic Design
+DSPS0000          3//Pakistan Studies
+DSDS4444           3//Calculus 1
+DSDS8888          4//Buisness
+DSGD4242          3//Graphics
